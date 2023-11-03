@@ -1,1 +1,1 @@
-# testing-dropezone-library
+# Testing dropezone library
